@@ -1,5 +1,10 @@
 # :gear: Development Resources
 
+## Learning by Example
+
+- [Rust](https://doc.rust-lang.org/stable/rust-by-example/)
+- [Go](https://gobyexample.com/)
+
 ## Python
 
 - [Real Python](https://realpython.com/): Comprehensive in-depth guides into programming with Python.  
@@ -12,3 +17,13 @@
 - [CSS Tricks](https://css-tricks.com/): Articles about anything web dev.
 - [MDN Web Docs](https://developer.mozilla.org/): Resources for developers, by developers. Documentation for the core of web development: HTML, CSS, and Javascript.
 - [DevDocs](https://devdocs.io/): Collection of docs for many of the most popular developer technologies.
+
+## Rust
+
+- [No Boilerplate](https://www.youtube.com/@NoBoilerplate): Fast, technical videos on programming with a focus in Rust.
+- [Rustlings](https://github.com/rust-lang/rustlings): Contains small exercises to get you used to reading and writing Rust code.
+
+## Git
+
+- [Git Explorer](https://gitexplorer.com/): Find the right Git commands you need without digging through the web.
+- [Dangit, Git!?!](https://dangitgit.com/): Simple solutions to the most common problems you'll find when using Git.
